@@ -1,0 +1,22 @@
+{
+    "organization": {
+      "name": "OriginStake",
+      "description": "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Story Protocol.",
+      "website": "https://originstake.com",
+      "email": "hi@originstake.com"
+    },
+    "social": {
+      "website": "https://originstake.com",
+      "twitter": "https://twitter.com/originstake",
+      "github": "https://github.com/originstake"
+    },
+    "location": {
+      "country": "Vietnam",
+      "region": "Asia"
+    },
+    "services": {
+      "snapshots": true,
+      "state_sync": true,
+      "api_service": true
+    }
+  }

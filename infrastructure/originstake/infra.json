@@ -1,0 +1,14 @@
+{
+    "moniker": "OriginStake",
+    "infrastructure": {
+      "cosmos": {
+        "rpc_endpoint": "https://story-rpc-cosmos.originstake.com",
+        "api_endpoint": "https://story-api-cosmos.originstake.com",
+        "ws_endpoint": "wss://story-rpc-cosmos.originstake.com/websocket"
+      },
+      "evm": {
+        "rpc_endpoint": "https://story-rpc01.originstake.com",
+        "ws_endpoint": "wss://story-wss01.originstake.com"
+      }
+    }
+  }
