@@ -3,7 +3,8 @@
       "name": "OriginStake",
       "description": "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Story Protocol.",
       "website": "https://originstake.com",
-      "email": "hi@originstake.com"
+      "email": "hi@originstake.com",
+      "keybase": "8708AC95F44038A2"
     },
     "social": {
       "website": "https://originstake.com",
@@ -17,6 +18,9 @@
     "services": {
       "snapshots": true,
       "state_sync": true,
-      "api_service": true
-    }
+      "rpc_service": true
+    },
+    "assets": {
+        "avatar": "https://raw.githubusercontent.com/OriginStake/ogs-media/refs/heads/main/Logo/PNG/OriginStake_Logo_1.png"
+    }  
   }
