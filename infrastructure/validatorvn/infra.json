@@ -7,7 +7,7 @@
         "ws_endpoint": "wss://story-rpc.validatorvn.com/websocket"
       },
       "evm": {
-        "rpc_endpoint": "https://story-rpc-evm.validatorvn.com"",
+        "rpc_endpoint": "https://story-rpc-evm.validatorvn.com",
         "ws_endpoint": "wss://story-ws-evm.validatorvn.com"
       }
     }
