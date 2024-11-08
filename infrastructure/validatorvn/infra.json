@@ -1,0 +1,14 @@
+{
+    "moniker": "ValidatorVN",
+    "infrastructure": {
+      "cosmos": {
+        "rpc_endpoint": "https://story-rpc.validatorvn.com",
+        "api_endpoint": "https://story-api.validatorvn.com",
+        "ws_endpoint": "wss://story-rpc.validatorvn.com/websocket"
+      },
+      "evm": {
+        "rpc_endpoint": "https://story-rpc-evm.validatorvn.com",
+        "ws_endpoint": "wss://story-ws-evm.validatorvn.com"
+      }
+    }
+  }

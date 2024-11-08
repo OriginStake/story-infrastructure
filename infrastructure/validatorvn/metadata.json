@@ -1,0 +1,26 @@
+{
+    "organization": {
+      "name": "ValidatorVN",
+      "description": "Trusted Proof-of-Stake validator & IBC relayer. Slash protected.",
+      "website": "https://validatorvn.com",
+      "email": "security@validatorvn.com",
+      "keybase": "6CB6AC3E672AAB9D"
+    },
+    "social": {
+      "website": "https://validatorvn.com"",
+      "twitter": "https://twitter.com/ValidatorVN",
+      "github": "https://github.com/ValidatorVN"
+    },
+    "location": {
+      "country": "Vietnam",
+      "region": "Asia"
+    },
+    "services": {
+      "snapshots": true,
+      "state_sync": true,
+      "rpc_service": true
+    },
+    "assets": {
+        "avatar": "https://avatars.githubusercontent.com/u/108173368?v=4"
+    }  
+  }
