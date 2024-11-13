@@ -1,0 +1,32 @@
+{
+    "moniker": "OriginStake",
+    "peers": [
+      {
+        "id": "f0fd504ab1d7466958bd3c12c3f6d1607335dbd4",
+        "address": "story-newyork-peer.originstake.com",
+        "port": 13656,
+        "location": {
+          "continent": "North America",
+          "country": "United States"
+        }
+      },
+      {
+        "id": "c5ece7b0a94d90fbdf6bc8781c397a4538db0b58", 
+        "address": "story-amterdam-peer.originstake.com",
+        "port": 13656,
+        "location": {
+          "continent": "Europe",
+          "country": "Netherlands"
+        }
+      },
+      {
+        "id": "5ad4ded1bb0358b7699480ddcabd73ac6d111825",
+        "address": "story-sydney-peer.originstake.com", 
+        "port": 13656,
+        "location": {
+          "continent": "Oceania",
+          "country": "Australia"
+        }
+      }
+    ]
+  }
