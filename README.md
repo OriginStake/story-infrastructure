@@ -2,6 +2,8 @@
 
 We are building a **global decentralized network** for Story Protocol, starting with `odyssey-0 testnet` and continuing through to mainnet! Distributing nodes across different regions enhances **reliability**, **performance**, and **diversity** of the system. 🎯
 
+<img src="https://res.cloudinary.com/ghostdigital/image/upload/v1731514165/story-take-my-energy_dltk9b.png" width="400" alt="Story Protocol Energy" />
+
 ---
 
 ## 🛑 Current Situation and Challenges
