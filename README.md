@@ -1,6 +1,6 @@
-# 🌍 Story Protocol Node Distribution on `odyssey-0 testnet`
+# 🌍 Story Protocol Node Distribution
 
-We are building a **global decentralized network** for Story Protocol on `odyssey-0 testnet`! Distributing nodes across different regions enhances **reliability**, **performance**, and **diversity** of the system. 🎯
+We are building a **global decentralized network** for Story Protocol, starting with `odyssey-0 testnet` and continuing through to mainnet! Distributing nodes across different regions enhances **reliability**, **performance**, and **diversity** of the system. 🎯
 
 ---
 
@@ -30,29 +30,29 @@ Currently, many validators are concentrated in Germany (Hetzner/Contabo), leadin
 ## 🌐 Current Node Distribution
 
 ### 🌎 North America
-| 💻 Moniker | ️ Node ID | 📍 Location |
-|------------|------------|-------------|
-| OriginStake | `f0fd504ab1d7466958bd3c12c3f6d1607335dbd4@story-newyork-peer.originstake.com:13656` | New York, United States |
+| 💻 Moniker | ️ Node ID | 🌆 City | 🏳️ Country |
+|------------|-----------|----------|------------|
+| OriginStake | f0fd504ab1d7466958bd3c12c3f6d1607335dbd4@story-newyork-peer.originstake.com:13656 | New York | United States |
 
 ### 🌍 Europe
-| 💻 Moniker | 🖥️ Node ID | 📍 Location |
-|------------|------------|-------------|
-| OriginStake | `c5ece7b0a94d90fbdf6bc8781c397a4538db0b58@story-amterdam-peer.originstake.com:13656` | Amsterdam, Netherlands |
+| 💻 Moniker | 🖥️ Node ID | 🌆 City | 🏳️ Country |
+|------------|-----------|----------|------------|
+| OriginStake | c5ece7b0a94d90fbdf6bc8781c397a4538db0b58@story-amterdam-peer.originstake.com:13656 | Amsterdam | Netherlands |
 
 ### 🌏 Asia
-| 💻 Moniker | 🖥️ Node ID | 📍 Location |
-|------------|------------|-------------|
-| ValidatorVN | `d2a6945f138b48d5ad56ac2352958fa75a3576e4@113.189.15.242:55656` | Vietnam |
+| 💻 Moniker | 🖥️ Node ID | 🌆 City | 🏳️ Country |
+|------------|-----------|----------|------------|
+| ValidatorVN | d2a6945f138b48d5ad56ac2352958fa75a3576e4@113.189.15.242:55656 | Ho Chi Minh | Vietnam |
 
 ### 🌏 Oceania
-| 💻 Moniker | 🖥️ Node ID | 📍 Location |
-|------------|------------|-------------|
-| OriginStake | `5ad4ded1bb0358b7699480ddcabd73ac6d111825@story-sydney-peer.originstake.com:13656` | Sydney, Australia |
+| 💻 Moniker | 🖥️ Node ID | 🌆 City | 🏳️ Country |
+|------------|-----------|----------|------------|
+| OriginStake | 5ad4ded1bb0358b7699480ddcabd73ac6d111825@story-sydney-peer.originstake.com:13656 | Sydney | Australia |
 
 ### 🌍 Africa
-| 💻 Moniker | 🖥️ Node ID | 📍 Location |
-|------------|------------|-------------|
-| *No nodes yet* | - | - |
+| 💻 Moniker | 🖥️ Node ID | 🌆 City | 🏳️ Country |
+|------------|-----------|----------|------------|
+| *No nodes yet* | - | - | - |
 
 ---
 
@@ -64,9 +64,10 @@ To help make the network **more decentralized and robust**, we invite community 
 2. **Contributing node configurations** to this repository to strengthen the global network
 
 ### 🔄 Accepted Node Types
-You can contribute in one of two forms:
+You can contribute in one of three forms:
 - **Dedicated P2P Peer**: Node set up specifically for peering purposes
 - **RPC Server**: Dedicated RPC server in your region (not recommended if you set request limits)
+- **Regional Pioneer Node**: If you're running the only node in your region (e.g., Africa), your contribution is especially valuable as it helps other validators establish reliable connections in underserved areas
 
 > 💡 Priority is given to nodes from regions with fewer peers to increase network decentralization.
 
