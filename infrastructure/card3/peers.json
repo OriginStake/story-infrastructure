@@ -1,0 +1,14 @@
+{
+  "moniker": "Card3",
+  "peers": [
+    {
+      "id": "9047a2903df12ea379ea2952a9ab457c2424caa9",
+      "address": "34.73.188.109",
+      "port": 26656,
+      "location": {
+        "continent": "North America",
+        "country": "United States"
+      }
+    }
+  ]
+}
