@@ -1,0 +1,14 @@
+{
+    "moniker": "Mandragora",
+    "infrastructure": {
+      "cosmos": {
+        "rpc_endpoint": "https://story-rpc.mandragora.io",
+        "api_endpoint": "https://story-api.mandragora.io",
+        "ws_endpoint": "wss://story-rpc.mandragora.io/websocket"
+      },
+      "evm": {
+        "rpc_endpoint": "https://story-rpc-evm.mandragora.io",
+        "ws_endpoint": "wss://story-wss.mandragora.io"
+      }
+    }
+  }

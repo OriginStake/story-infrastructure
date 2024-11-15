@@ -1,0 +1,26 @@
+{
+    "organization": {
+      "name": "Mandragora",
+      "description": "Professional and reliable staking service provider since 2018. We provide infrastructure, technical support and meaningful contributions in projects we are involved in. Core contributors in disruptive and novel projects like Namada. Backers of Undexer and Shielded Live explorer.",
+      "website": "https://mandragora.io",
+      "email": "support@mandragora.io",
+      "keybase": "DFEAAB98E8D0975B"
+    },
+    "social": {
+      "website": "https://mandragora.io",
+      "twitter": "https://x.com/mandragora_spem",
+      "github": "https://github.com/McDaan"
+    },
+    "location": {
+      "country": "Spain",
+      "region": "Barcelona"
+    },
+    "services": {
+      "snapshots": true,
+      "state_sync": true,
+      "rpc_service": true
+    },
+    "assets": {
+        "avatar": "https://i.ibb.co/mzWB7tq/photo-2022-10-14-05-18-24.jpg"
+    }  
+  }
