@@ -26,7 +26,8 @@
         "location": {
           "continent": "Oceania",
           "country": "Australia"
-        },
+        }
+      },
         {
         "id": "19a5b8cc0c3b65f9314d731d00ca9c2b696d59fb",
         "address": "story-africa-peer.mandragora.io", 
