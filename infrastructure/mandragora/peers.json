@@ -1,0 +1,40 @@
+{
+    "moniker": "Mandragora",
+    "peers": [
+      {
+        "id": "08a8785a7b5d6084a6eb65cf763391ea94549a15",
+        "address": "story-asia-peer.mandragora.io",
+        "port": 26656,
+        "location": {
+          "continent": "Asia",
+          "country": "India"
+        }
+      },
+      {
+        "id": "719e994fd8b930d2d315531af031eb47692a1b41", 
+        "address": "story-asia2-peer.mandragora.io",
+        "port": 26656,
+        "location": {
+          "continent": "Asia",
+          "country": "Singapore"
+        }
+      },
+      {
+        "id": "3c763c3d14124f5ea738fd742dbb33d5973849d5",
+        "address": "story-oceania-peer.mandragora.io", 
+        "port": 26656,
+        "location": {
+          "continent": "Oceania",
+          "country": "Australia"
+        },
+        {
+        "id": "19a5b8cc0c3b65f9314d731d00ca9c2b696d59fb",
+        "address": "story-africa-peer.mandragora.io", 
+        "port": 26656,
+        "location": {
+          "continent": "Africa",
+          "country": "South Africa"
+        }
+      }
+    ]
+  }
