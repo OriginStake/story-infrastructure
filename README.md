@@ -37,6 +37,9 @@ Currently, many validators are concentrated in Germany (Hetzner/Contabo), leadin
 | 💻 Moniker | ️ Node ID | 🌆 City | 🏳️ Country |
 |------------|-----------|----------|------------|
 | OriginStake | f0fd504ab1d7466958bd3c12c3f6d1607335dbd4@story-newyork-peer.originstake.com:13656 | New York | United States |
+| Card3 | 9047a2903df12ea379ea2952a9ab457c2424caa9@34.73.188.109:26656 | South Carolina | United States |
+
+
 
 ### 🌍 Europe
 | 💻 Moniker | 🖥️ Node ID | 🌆 City | 🏳️ Country |
