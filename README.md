@@ -50,16 +50,19 @@ Currently, many validators are concentrated in Germany (Hetzner/Contabo), leadin
 | 💻 Moniker | 🖥️ Node ID | 🌆 City | 🏳️ Country |
 |------------|-----------|----------|------------|
 | ValidatorVN | d2a6945f138b48d5ad56ac2352958fa75a3576e4@113.189.15.242:55656 | Ho Chi Minh | Vietnam |
+| Mandragora | 08a8785a7b5d6084a6eb65cf763391ea94549a15@story-asia-peer.mandragora.io:26656 | Mumbai | India |
+| Mandragora | 719e994fd8b930d2d315531af031eb47692a1b41@story-asia2-peer.mandragora.io:26656 | Singapore | Singapore |
 
 ### 🌏 Oceania
 | 💻 Moniker | 🖥️ Node ID | 🌆 City | 🏳️ Country |
 |------------|-----------|----------|------------|
 | OriginStake | 5ad4ded1bb0358b7699480ddcabd73ac6d111825@story-sydney-peer.originstake.com:13656 | Sydney | Australia |
+| Mandragora | 3c763c3d14124f5ea738fd742dbb33d5973849d5@story-oceania-peer.mandragora.io:26656 | Sydney | Australia |
 
 ### 🌍 Africa
 | 💻 Moniker | 🖥️ Node ID | 🌆 City | 🏳️ Country |
 |------------|-----------|----------|------------|
-| *No nodes yet* | - | - | - |
+| Mandragora | 19a5b8cc0c3b65f9314d731d00ca9c2b696d59fb@story-africa-peer.mandragora.io:26656 | Cape Town | South Africa |
 
 ---
 
