@@ -8,23 +8,52 @@
       "identity": {
         "keybase": "8708AC95F44038A2",
         "twitter": "originstake",
-        "discord": "originstake",
-        "telegram": "originstake"
+        "discord": "mrspir"
       }
     },
     "0xe08c0aea2da99b668e8121f4d922ef8a2e3b8a10": {
       "moniker": "Coha05 | SpiderNode",
-      "description": "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Story.",
-      "website": "https://originstake.com",
-      "avatar": "https://spidernode.net/img/logo.svg",
-      "identity": {
-        "keybase": "8708AC95F44038A2",
-        "twitter": "originstake",
-        "discord": "originstake",
-        "telegram": "originstake"
-      }
+      "avatar": ""
+    },
+    "0x0de7a36001646bddb18afe2e1a75e81f00596b6c": {
+      "moniker": "BHavest 1",
+      "avatar": ""
+    },
+    "0xf3f34f1d8f90afc4b85461ad65c86b4b4130da66": {
+      "moniker": "BHavest 2",
+      "avatar": ""
+    },
+    "0xa21db8c1a286e0cf74ac0bcd6e273f799c77d4d0": {
+      "moniker": "Luganodes 1",
+      "avatar": ""
+    },
+    "0x76706464f81c397a8ebd41fb95ae8c9e8e492fa0": {
+      "moniker": "Luganodes 2",
+      "avatar": ""
+    },
+    "0xc295d02ebed189b6c0fae2dcffe5cf540cb12ac4": {
+      "moniker": "Madangora",
+      "avatar": ""
+    },
+    "0xa1b168ecc540ee810fdbb137e831c1e140fbda90": {
+      "moniker": "ContributionDao",
+      "avatar": ""
+    },
+    "0x0298d2dda1506a0587eb279972cf7c0e66c51a6f": {
+      "moniker": "GrandValley",
+      "avatar": ""
+    },
+    "0xf62abeb9903b5bab45a405ee7e532551d8e4f255": {
+      "moniker": "P-OPS Team",
+      "avatar": ""
+    },
+    "0xe65bc7975fa1213a9fc17f3ac0bd4701bb9df812": {
+      "moniker": "F5Node",
+      "avatar": ""
     },
     "0xc56d246a4697c6d67a0c5867145672af95aca2b3": {
       "moniker": "Punkgame x Mimboku",
-      "avatar": ""
-    },
+      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xc56d246a4697c6d67a0c5867145672af95aca2b3.png"
+    }
+  }
+}
