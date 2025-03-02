@@ -1,0 +1,30 @@
+{
+  "validators": {
+    "0x9a3d947f3712b967a5bb81b19208ddbaef3533ae": {
+      "moniker": "OriginStake",
+      "description": "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Story.",
+      "website": "https://originstake.com",
+      "avatar": "https://raw.githubusercontent.com/OriginStake/ogs-media/refs/heads/main/Logo/SVG/OriginStake-logo-1.svg",
+      "identity": {
+        "keybase": "8708AC95F44038A2",
+        "twitter": "originstake",
+        "discord": "originstake",
+        "telegram": "originstake"
+      }
+    },
+    "0xe08c0aea2da99b668e8121f4d922ef8a2e3b8a10": {
+      "moniker": "Coha05 | SpiderNode",
+      "description": "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Story.",
+      "website": "https://originstake.com",
+      "avatar": "https://spidernode.net/img/logo.svg",
+      "identity": {
+        "keybase": "8708AC95F44038A2",
+        "twitter": "originstake",
+        "discord": "originstake",
+        "telegram": "originstake"
+      }
+    },
+    "0xc56d246a4697c6d67a0c5867145672af95aca2b3": {
+      "moniker": "Punkgame x Mimboku",
+      "avatar": ""
+    },
