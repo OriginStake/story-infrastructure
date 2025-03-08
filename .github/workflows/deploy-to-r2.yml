@@ -1,0 +1,33 @@
+name: Deploy Validator Profile Logos to Cloudflare R2
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'validator-profile/logo/**'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      UPLOAD_PATH: ${{ secrets.UPLOAD_PATH }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install AWS CLI
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y awscli
+
+      - name: Configure AWS CLI for Cloudflare R2
+        run: |
+          aws configure set aws_access_key_id ${{ secrets.CF_R2_ACCESS_KEY_ID }}
+          aws configure set aws_secret_access_key ${{ secrets.CF_R2_SECRET_ACCESS_KEY }}
+          aws configure set default.region us-east-1
+
+      - name: Sync logo folder to Cloudflare R2
+        run: |
+          aws s3 sync validator-profile/logo/ $UPLOAD_PATH --endpoint-url ${{ secrets.CF_R2_ENDPOINT }}
