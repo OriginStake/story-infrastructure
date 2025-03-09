@@ -1,4 +1,4 @@
-name: Deploy Validator Profile Logos to Cloudflare R2
+name: Deploy Validator Profile to Cloudflare R2
 
 on:
   push:
@@ -10,7 +10,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    # Use the secret directly as an environment variable
+
     env:
       UPLOAD_PATH: ${{ secrets.UPLOAD_PATH_SECRET }}
 
@@ -35,16 +35,16 @@ jobs:
           endpoint = ${{ secrets.CF_R2_ENDPOINT }}
           EOF
 
-      # (Optional) List bucket contents before sync 
+      # (Optional) List bucket contents before sync
       - name: List bucket contents before sync
         run: |
           rclone ls "${{ env.UPLOAD_PATH }}" || echo "Bucket is empty or inaccessible"
 
-      - name: Sync files to Cloudflare R2
+      - name: Sync entire validator-profile folder to Cloudflare R2
         run: |
-          rclone sync validator-profile/logo "${{ env.UPLOAD_PATH }}" --progress
+          rclone sync validator-profile "${{ env.UPLOAD_PATH }}" --progress
 
-      # (Optional) List bucket contents after sync 
+      # (Optional) List bucket contents after sync
       - name: List bucket contents after sync
         run: |
           rclone ls "${{ env.UPLOAD_PATH }}"
