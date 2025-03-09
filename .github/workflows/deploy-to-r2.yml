@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'validator-profile/logo/**'
+      - 'validator-profile/**'
   workflow_dispatch:
 
 jobs:
