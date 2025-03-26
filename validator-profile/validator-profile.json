@@ -1,100 +1,307 @@
 {
-  "validators": {
-    "0x9a3d947f3712b967a5bb81b19208ddbaef3533ae": {
-      "moniker": "OriginStake",
-      "description": "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Story.",
-      "website": "https://originstake.com",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x9a3d947f3712b967a5bb81b19208ddbaef3533ae.svg",
-      "identity": {
-        "keybase": "8708AC95F44038A2",
-        "twitter": "originstake",
-        "discord": "mrspir"
-      }
-    },
-    "0xe08c0aea2da99b668e8121f4d922ef8a2e3b8a10": {
-      "moniker": "Coha05 | SpiderNode",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xe08c0aea2da99b668e8121f4d922ef8a2e3b8a10.svg"
-    },
-
-    "0x770d602a8122f282412f79f3f978dbb7ed3f2e69": {
-      "moniker": "Blockdaemon 1",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xc2e9ba01ce5dfdd9a6d86554796311fcb4967fe3.jpg"
-    },
-    "0xc2e9ba01ce5dfdd9a6d86554796311fcb4967fe3": {
-      "moniker": "Blockdaemon 2",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xc2e9ba01ce5dfdd9a6d86554796311fcb4967fe3.jpg"
-    },
-    "0x0de7a36001646bddb18afe2e1a75e81f00596b6c": {
-      "moniker": "B-Harvest Validator 1",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x0de7a36001646bddb18afe2e1a75e81f00596b6c.jpeg"
-    },
-    "0xf3f34f1d8f90afc4b85461ad65c86b4b4130da66": {
-      "moniker": "B-Harvest Validator 2",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x0de7a36001646bddb18afe2e1a75e81f00596b6c.jpeg"
-    },
-    "0x3a07875162ee04d6e70e27ab55ff45ee1fefb317": {
-      "moniker": "IPFiscan",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x3a07875162ee04d6e70e27ab55ff45ee1fefb317.jpg"
-    },
-    "0x28e4ecb7ddb09682e86b1f3f06fc885f5f2bddcb": {
-      "moniker": "IPFiscan",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x28e4ecb7ddb09682e86b1f3f06fc885f5f2bddcb.jpg"
-    },
-    "0xa21db8c1a286e0cf74ac0bcd6e273f799c77d4d0": {
-      "moniker": "Luganodes 1",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x76706464f81c397a8ebd41fb95ae8c9e8e492fa0.jpeg"
-    },
-    "0x76706464f81c397a8ebd41fb95ae8c9e8e492fa0": {
-      "moniker": "Luganodes 2",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x76706464f81c397a8ebd41fb95ae8c9e8e492fa0.jpeg"
-    },
-    "0xc295d02ebed189b6c0fae2dcffe5cf540cb12ac4": {
-      "moniker": "Mandragora",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xc295d02ebed189b6c0fae2dcffe5cf540cb12ac4.png"
-    },
-    "0xa1b168ecc540ee810fdbb137e831c1e140fbda90": {
-      "moniker": "ContributionDao",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xa1b168ecc540ee810fdbb137e831c1e140fbda90.png"
-    },
-    "0x0298d2dda1506a0587eb279972cf7c0e66c51a6f": {
-      "moniker": "GrandValley",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x0298d2dda1506a0587eb279972cf7c0e66c51a6f.jpeg"
-    },
-    "0xf62abeb9903b5bab45a405ee7e532551d8e4f255": {
-      "moniker": "P-OPS Team",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xf62abeb9903b5bab45a405ee7e532551d8e4f255.png"
-    },
-    "0xe65bc7975fa1213a9fc17f3ac0bd4701bb9df812": {
-      "moniker": "F5Node",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xe65bc7975fa1213a9fc17f3ac0bd4701bb9df812.png"
-    },
-    "0xc56d246a4697c6d67a0c5867145672af95aca2b3": {
-      "moniker": "Punkgame x Mimboku",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xc56d246a4697c6d67a0c5867145672af95aca2b3.png"
-    },
-    "0xf6baa5cba0c16e648bfce0356d622df120e3c195": {
-      "moniker": "Lavender.Five Nodes",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/675918125b7ffb6afec347fb64e944cf9fd09b25/validator-profile/logo/0xf6baa5cba0c16e648bfce0356d622df120e3c195.png"
-    },
-    "0x88b1fae2a9329d52e8bd837ceb4078ef221be9d1": {
-      "moniker": "J-Node",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/675918125b7ffb6afec347fb64e944cf9fd09b25/validator-profile/logo/0x88b1fae2a9329d52e8bd837ceb4078ef221be9d1.svg"
-    },
-    "0x19e61a2de78b4432567634d8d2f845d2c2651ea9": {
-      "moniker": "Story Foundation 2",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xeb41755f941b11fc6787de9e6a78dbd56523e3f1.png"
-    },
-    "0xeb41755f941b11fc6787de9e6a78dbd56523e3f1": {
-      "moniker": "Story Foundation 1",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x19e61a2de78b4432567634d8d2f845d2c2651ea9.png"
-    },
-    "0x5a6e87b408c6867a30b6195491fb119ccb0faf1f": {
-      "moniker": "Story Hub (TTT VN)",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x5a6e87b408c6867a30b6195491fb119ccb0faf1f.jpg"
-    },
-    "0x3a47cf077adb56807d2b5b8df8b63b73153cb2eb": {
-      "moniker": "Nodes.Guru",
-      "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x3a47cf077adb56807d2b5b8df8b63b73153cb2eb.png"
+    "validators": {
+        "0x9a3d947f3712b967a5bb81b19208ddbaef3533ae": {
+            "moniker": "OriginStake",
+            "description": "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Story.",
+            "website": "https://originstake.com",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x9a3d947f3712b967a5bb81b19208ddbaef3533ae.svg",
+            "identity": {
+                "keybase": "8708AC95F44038A2",
+                "twitter": "originstake",
+                "discord": "mrspir"
+            }
+        },
+        "0xe08c0aea2da99b668e8121f4d922ef8a2e3b8a10": {
+            "moniker": "Coha05 | SpiderNode",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xe08c0aea2da99b668e8121f4d922ef8a2e3b8a10.svg"
+        },
+        "0x770d602a8122f282412f79f3f978dbb7ed3f2e69": {
+            "moniker": "Blockdaemon 1",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xc2e9ba01ce5dfdd9a6d86554796311fcb4967fe3.png"
+        },
+        "0xc2e9ba01ce5dfdd9a6d86554796311fcb4967fe3": {
+            "moniker": "Blockdaemon 2",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xc2e9ba01ce5dfdd9a6d86554796311fcb4967fe3.png"
+        },
+        "0x0de7a36001646bddb18afe2e1a75e81f00596b6c": {
+            "moniker": "B-Harvest Validator 1",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x0de7a36001646bddb18afe2e1a75e81f00596b6c.png"
+        },
+        "0xf3f34f1d8f90afc4b85461ad65c86b4b4130da66": {
+            "moniker": "B-Harvest Validator 2",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x0de7a36001646bddb18afe2e1a75e81f00596b6c.png"
+        },
+        "0x3a07875162ee04d6e70e27ab55ff45ee1fefb317": {
+            "moniker": "IPFiscan",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x3a07875162ee04d6e70e27ab55ff45ee1fefb317.png"
+        },
+        "0x28e4ecb7ddb09682e86b1f3f06fc885f5f2bddcb": {
+            "moniker": "IPFiscan",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x28e4ecb7ddb09682e86b1f3f06fc885f5f2bddcb.png"
+        },
+        "0xa21db8c1a286e0cf74ac0bcd6e273f799c77d4d0": {
+            "moniker": "Luganodes 1",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x76706464f81c397a8ebd41fb95ae8c9e8e492fa0.png"
+        },
+        "0x76706464f81c397a8ebd41fb95ae8c9e8e492fa0": {
+            "moniker": "Luganodes 2",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x76706464f81c397a8ebd41fb95ae8c9e8e492fa0.png"
+        },
+        "0xc295d02ebed189b6c0fae2dcffe5cf540cb12ac4": {
+            "moniker": "Mandragora",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xc295d02ebed189b6c0fae2dcffe5cf540cb12ac4.png"
+        },
+        "0xa1b168ecc540ee810fdbb137e831c1e140fbda90": {
+            "moniker": "ContributionDao",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xa1b168ecc540ee810fdbb137e831c1e140fbda90.png"
+        },
+        "0x0298d2dda1506a0587eb279972cf7c0e66c51a6f": {
+            "moniker": "GrandValley",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x0298d2dda1506a0587eb279972cf7c0e66c51a6f.png"
+        },
+        "0xf62abeb9903b5bab45a405ee7e532551d8e4f255": {
+            "moniker": "P-OPS Team",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xf62abeb9903b5bab45a405ee7e532551d8e4f255.png"
+        },
+        "0xe65bc7975fa1213a9fc17f3ac0bd4701bb9df812": {
+            "moniker": "F5Node",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xe65bc7975fa1213a9fc17f3ac0bd4701bb9df812.png"
+        },
+        "0xc56d246a4697c6d67a0c5867145672af95aca2b3": {
+            "moniker": "Punkgame x Mimboku",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xc56d246a4697c6d67a0c5867145672af95aca2b3.png"
+        },
+        "0xf6baa5cba0c16e648bfce0356d622df120e3c195": {
+            "moniker": "Lavender.Five Nodes",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/675918125b7ffb6afec347fb64e944cf9fd09b25/validator-profile/logo/0xf6baa5cba0c16e648bfce0356d622df120e3c195.png"
+        },
+        "0x88b1fae2a9329d52e8bd837ceb4078ef221be9d1": {
+            "moniker": "J-Node",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/675918125b7ffb6afec347fb64e944cf9fd09b25/validator-profile/logo/0x88b1fae2a9329d52e8bd837ceb4078ef221be9d1.svg"
+        },
+        "0x19e61a2de78b4432567634d8d2f845d2c2651ea9": {
+            "moniker": "Story Foundation 2",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xeb41755f941b11fc6787de9e6a78dbd56523e3f1.png"
+        },
+        "0xeb41755f941b11fc6787de9e6a78dbd56523e3f1": {
+            "moniker": "Story Foundation 1",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x19e61a2de78b4432567634d8d2f845d2c2651ea9.png"
+        },
+        "0x5a6e87b408c6867a30b6195491fb119ccb0faf1f": {
+            "moniker": "Story Hub (TTT VN)",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x5a6e87b408c6867a30b6195491fb119ccb0faf1f.png"
+        },
+        "0x3a47cf077adb56807d2b5b8df8b63b73153cb2eb": {
+            "moniker": "Nodes.Guru",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x3a47cf077adb56807d2b5b8df8b63b73153cb2eb.png"
+        },
+        "0x0caf357f55d39a1bba4eacadcdc3b575650c8b9e": {
+            "moniker": "DSRV",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x0caf357f55d39a1bba4eacadcdc3b575650c8b9e.png"
+        },
+        "0x13b1290fc193f100eae5d5b7401b604f635113ef": {
+            "moniker": "Republic",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x13b1290fc193f100eae5d5b7401b604f635113ef.png"
+        },
+        "0xe966261b15b6f06781f6c37d754f1119c294dd91": {
+            "moniker": "CoinagexDAIC",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xe966261b15b6f06781f6c37d754f1119c294dd91.png"
+        },
+        "0xcb4b2069121c228461b67169ef298dbea83ff161": {
+            "moniker": "Figment",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xcb4b2069121c228461b67169ef298dbea83ff161.png"
+        },
+        "0xe571f6176a1bc830bbbf149f21038ca12bc1d6ac": {
+            "moniker": "Everstake",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xe571f6176a1bc830bbbf149f21038ca12bc1d6ac.png"
+        },
+        "0x91eac7023aa8b2b2196397faf86d46db71eac4a3": {
+            "moniker": "DragonStake",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x91eac7023aa8b2b2196397faf86d46db71eac4a3.png"
+        },
+        "0xae02de98aa5d2929255e02faa49e6b009a4adedc": {
+            "moniker": "STAKEME",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xae02de98aa5d2929255e02faa49e6b009a4adedc.png"
+        },
+        "0xd7ee9e68dd66b05cce0950cc1c7f6535843cebfa": {
+            "moniker": "A41",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xd7ee9e68dd66b05cce0950cc1c7f6535843cebfa.png"
+        },
+        "0x0d01e9d334ec586507e4f2ed05fc9c0031022e40": {
+            "moniker": "NodeStake|ForLocked",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x0d01e9d334ec586507e4f2ed05fc9c0031022e40.png"
+        },
+        "0x2d125615bb547a726267942db4e30376af2474dc": {
+            "moniker": "DeSpread",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x2d125615bb547a726267942db4e30376af2474dc.png"
+        },
+        "0x274f74853b6851a46a931f0ab75145652c575062": {
+            "moniker": "BlockHunter",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x274f74853b6851a46a931f0ab75145652c575062.png"
+        },
+        "0x1ab2bf769daa40e0dbeb9cc8417817e99aa451cf": {
+            "moniker": "MetaPool",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x1ab2bf769daa40e0dbeb9cc8417817e99aa451cf.png"
+        },
+        "0xb4c106a8206cf8b23ab377a4e9b779fddb9d3427": {
+            "moniker": "Chainflow",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xb4c106a8206cf8b23ab377a4e9b779fddb9d3427.png"
+        },
+        "0xd245aa3d022bf079bae6b34b9f5352c0d4c4b1ad": {
+            "moniker": "StakingCabin",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xd245aa3d022bf079bae6b34b9f5352c0d4c4b1ad.png"
+        },
+        "0x08629caabb138194272f952a1488879539472a11": {
+            "moniker": "Kiln",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x08629caabb138194272f952a1488879539472a11.png"
+        },
+        "0x0698270e5ee88e0eb2df0a1743ad7cbc3c381f4d": {
+            "moniker": "BwareLabs",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x0698270e5ee88e0eb2df0a1743ad7cbc3c381f4d.png"
+        },
+        "0x81cef699455df9f93cc811cb3feff5b9066d6d89": {
+            "moniker": "CroutonDigital",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x81cef699455df9f93cc811cb3feff5b9066d6d89.png"
+        },
+        "0xa9c2f9fdeaf54d332f5d8fc6c9b723a73950a7e3": {
+            "moniker": "BlackNodes",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xa9c2f9fdeaf54d332f5d8fc6c9b723a73950a7e3.png"
+        },
+        "0x1f7fcf4d1a942b7ac3e13a39bc074906bc5ba73a": {
+            "moniker": "Stakin",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x1f7fcf4d1a942b7ac3e13a39bc074906bc5ba73a.png"
+        },
+        "0x97bd6feef87b99c5a1aa9d103135cc63e4f07836": {
+            "moniker": "PierTwo",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x97bd6feef87b99c5a1aa9d103135cc63e4f07836.png"
+        },
+        "0x5b5a0656cf72809298e7128cd7b3cc710ff5f2c9": {
+            "moniker": "CoinHunters",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x5b5a0656cf72809298e7128cd7b3cc710ff5f2c9.png"
+        },
+        "0x8fc5212107c452adc4dd49ed9b17d6ff5778bd36": {
+            "moniker": "BlockPI",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x8fc5212107c452adc4dd49ed9b17d6ff5778bd36.png"
+        },
+        "0xcf47f817bf0693bb05d0fef10c11a5bd8d67efc6": {
+            "moniker": "cipherowlguardian",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xcf47f817bf0693bb05d0fef10c11a5bd8d67efc6.png"
+        },
+        "0x3e13a106de45bc493bed240913dd3f501af0beac": {
+            "moniker": "KysenPool",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x3e13a106de45bc493bed240913dd3f501af0beac.jpec"
+        },
+        "0x1ae40c127ad6f9661a151f60e78e771fdfc296ce": {
+            "moniker": "KYVEPublicGoodFunding",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x1ae40c127ad6f9661a151f60e78e771fdfc296ce.png"
+        },
+        "0xd8e151c6ccb3591f9c52bab63ce5240ac33fb529": {
+            "moniker": "Enigma",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xd8e151c6ccb3591f9c52bab63ce5240ac33fb529.png"
+        },
+        "0x6209600f3e263834d32b95c63a6de157fe8278e2": {
+            "moniker": "Silent",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x6209600f3e263834d32b95c63a6de157fe8278e2.png"
+        },
+        "0x329628e9d91af807beb33c0f1997c7b1f376f040": {
+            "moniker": "Noders",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x329628e9d91af807beb33c0f1997c7b1f376f040.png"
+        },
+        "0xc75e9d8df3cc6f445d48846f48c63c314e4da541": {
+            "moniker": "P2P.org",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xc75e9d8df3cc6f445d48846f48c63c314e4da541.png"
+        },
+        "0x3ce907903d51dd7954d2ffc200e562d980a4cc8c": {
+            "moniker": "InformalSystems",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x3ce907903d51dd7954d2ffc200e562d980a4cc8c.png"
+        },
+        "0xb6512c861d248828ae59de105d2025246ed47746": {
+            "moniker": "DTEAM",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xb6512c861d248828ae59de105d2025246ed47746.png"
+        },
+        "0x785fa3c357e3978c5201d3dcd0795c562687425e": {
+            "moniker": "ChorusOne",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x785fa3c357e3978c5201d3dcd0795c562687425e.png"
+        },
+        "0x443c8fd7b2e1fd1e2cd50b7c0b923dd63739774d": {
+            "moniker": "ease flow",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x443c8fd7b2e1fd1e2cd50b7c0b923dd63739774d.png"
+        },
+        "0x9562579ed4e281fe7ed32c3ed9895c7566af455b": {
+            "moniker": "Nethermind",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x9562579ed4e281fe7ed32c3ed9895c7566af455b.png"
+        },
+        "0x775c169624ff9b82b4bae1ef23d95f3d599571ca": {
+            "moniker": "MPCVault|MPCCustody",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x775c169624ff9b82b4bae1ef23d95f3d599571ca.png"
+        },
+        "0xaca80ddd0ef8eaf4103d2f9c80b486b0349cf480": {
+            "moniker": "Stakecito",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xaca80ddd0ef8eaf4103d2f9c80b486b0349cf480.png"
+        },
+        "0xf7810878b8e97c606ff6015438a62b2919bbe991": {
+            "moniker": "PiperX",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xf7810878b8e97c606ff6015438a62b2919bbe991.png"
+        },
+        "0x4919624cc71132c026e41390e04a1e4fb1749268": {
+            "moniker": "TrustedPoint",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x4919624cc71132c026e41390e04a1e4fb1749268.png"
+        },
+        "0x5a0e83b466959fbfae1ba2057c769add81f1eaeb": {
+            "moniker": "unleash",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x5a0e83b466959fbfae1ba2057c769add81f1eaeb.png"
+        },
+        "0x7083e2c2746854af0984961e5789a27af7d42c1e": {
+            "moniker": "HashKeyCloud",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x7083e2c2746854af0984961e5789a27af7d42c1e.png"
+        },
+        "0xdafc4a5e072672aad7e57129c3413276cc74ae1d": {
+            "moniker": "DragonStake",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xdafc4a5e072672aad7e57129c3413276cc74ae1d.png"
+        },
+        "0xca3aaed331349ba49b100f0f1e547743bb20c5e7": {
+            "moniker": "NodeStake",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xca3aaed331349ba49b100f0f1e547743bb20c5e7.png"
+        },
+        "0xccb72699101d0db7c55bc3121793e039d1a6bde0": {
+            "moniker": "Polkachu.com",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xccb72699101d0db7c55bc3121793e039d1a6bde0.png"
+        },
+        "0x2c3ae35fdbf19c8b551f391804d97757ab62f9e9": {
+            "moniker": "AiNodes",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x2c3ae35fdbf19c8b551f391804d97757ab62f9e9.png"
+        },
+        "0x8c9f296b3cbdc1f7763a641956e7fcff51393e3f": {
+            "moniker": "Quantnode",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x8c9f296b3cbdc1f7763a641956e7fcff51393e3f.png"
+        },
+        "0x3780172428d1e52bbd65b1d9d821233494c19602": {
+            "moniker": "Zerebro",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x3780172428d1e52bbd65b1d9d821233494c19602.png"
+        },
+        "0x1c33a52250248ea0a46e9964d0ba92ac39759c27": {
+            "moniker": "DeSpreadLabs",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x1c33a52250248ea0a46e9964d0ba92ac39759c27.png"
+        },
+        "0x3fa67da891a93a4abf86ebca8ffd2e96ec78bf4d": {
+            "moniker": "Certik-1",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x3fa67da891a93a4abf86ebca8ffd2e96ec78bf4d.png"
+        },
+        "0xca28db2459910a222873a96f723b4a37a4d285af": {
+            "moniker": "StakingCabin2",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xca28db2459910a222873a96f723b4a37a4d285af.png"
+        },
+        "0xc7e2356bd8fb963122ee18bf42d71235f2691b6e": {
+            "moniker": "Delight",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xc7e2356bd8fb963122ee18bf42d71235f2691b6e.png"
+        },
+        "0xdac8443398a1647b1a63ddfb8d595b2970d86152": {
+            "moniker": "ChainflowLocked",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0xdac8443398a1647b1a63ddfb8d595b2970d86152.png"
+        },
+        "0x63601cf53f3a9f9a5630c3d1d94624c1af7b8f2d": {
+            "moniker": "Certik",
+            "avatar": "https://raw.githubusercontent.com/OriginStake/story-infrastructure/refs/heads/main/validator-profile/logo/0x63601cf53f3a9f9a5630c3d1d94624c1af7b8f2d.png"
+        }
     }
-  }
 }
